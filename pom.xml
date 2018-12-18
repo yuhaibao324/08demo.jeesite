@@ -681,7 +681,7 @@
 						</goals>
 					</execution>
 				</executions>
-			</plugin>-->
+			</plugin> -->
 			
 			<!-- 打包jar文件时，配置manifest文件，加入lib包的jar依赖 -->
 			<plugin>
